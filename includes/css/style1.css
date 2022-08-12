@@ -1,0 +1,254 @@
+
+
+
+a{
+     text-decoration: none;
+     background: transparent;
+     color: #ededed;
+}
+
+.bl{
+     color: rgb(81, 168, 231);
+}
+
+/*****************************************************************
+  
+  HEADER OF LANDING PAGE
+
+*****************************************************************/
+.header{
+     width: 100%;
+     background-color:#212529;
+     color:#fff;
+     border-color: #080808;
+     min-height: 50px;
+     border: 1px solid transparent;
+}
+
+.inner-header{
+     width: 80%;
+     margin: auto;
+}
+
+.logo{
+     margin-top: -12px;
+     float: left;
+     height: 50px;
+     padding: 15px;
+     padding-top: 10px;
+     font-size: 20px;
+     font-weight: bold;
+}
+
+.header-link{
+     float:right;
+     font-size:14px;
+     height: 50px;
+     padding: 15px 15px;
+     font-size:16px;
+     font-weight: bold;
+}
+.login{
+     float: right;
+     background-color: #212529;
+     margin-top: -10px;
+}
+
+/*****************************************************************
+  
+ BODY OF LANDING PAGE
+
+*****************************************************************/
+
+#banner_image{
+min-height: 660px;
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(../img/intro-bg.jpg) no-repeat center center;
+background-size: cover;
+
+}
+
+#banner_image2{
+     min-height: 2000px;
+     padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(../img/intro-bg.jpg) no-repeat center center;
+background-size: cover;
+
+}
+.container1{
+     width: 80%;
+     margin: auto;
+}
+
+.containercontent{
+width: 100%;
+margin: auto;
+min-height: 100px;
+background-color:#f1f8ff !important;
+}
+
+#banner_content{
+
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin : auto;
+margin-top: 18%;
+margin-bottom: 12%;
+
+
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+}
+
+.footer{
+     background-color: #212529;
+     color:white;
+     font-size:14px;
+     height: 50px;
+}
+
+.footercontent{
+     text-align: center;
+     padding-top : 10px ;
+}
+
+
+/*****************************************************************
+  
+ BODY OF Log In PAGE
+
+*****************************************************************/
+
+.loginbody{
+
+     width: 40%;
+     margin: auto;
+     margin-top: 5%;
+}
+
+.logincard{
+    width: 100%;
+}
+
+
+
+.signuplink{
+ /* color: #5f8e1a;   */
+ color: #0d6efd;
+}
+
+.loginbg{
+     width: 100%;
+position: relative;
+margin : auto;
+margin-top: 18%;
+margin-bottom: 12%;
+color: black;
+
+background-color: white;
+max-width: 660px;
+}
+
+.mylabel{
+     float: left;
+}
+.innerlogin{
+   margin-left: 10%;
+   margin-right: 10%;
+}
+
+.leftkey{
+     margin-left: 6%;
+     float: left;
+     color: #5f8e1a;
+     
+}
+.signinbox{
+     padding-top: 50px;
+     padding-bottom: 30px;
+}
+
+/*****************************************************************
+  
+ BODY OF Sign Up PAGE
+
+*****************************************************************/
+.firstnamediv{
+     width: 48%;
+     float: left;
+}
+.secondnamediv{
+     width: 48%;
+     float: right;
+}
+.nameplate{
+     min-height: 75px;
+     padding-bottom: 10px;
+}
+
+.createaccountbutton{
+     width: 100%;
+}
+
+
+
+/*****************************************************************
+  
+ BODY OF Contact PAGE
+
+*****************************************************************/
+.contactarea{
+     margin-top: 10%;
+     min-height: 1000px;
+
+}
+
+textarea.form-control-lg {
+  min-height: calc(1.5em + (10rem + 2px));
+}
+
+.conlog{
+     width: 90%;
+     margin: auto;
+}
+
+
+/*****************************************************************
+  
+ BODY OF product PAGE
+
+*****************************************************************/
+
+.col-md-3{
+     float: left;
+}
+
+.rows{
+     margin-top: 1%;
+}
+
+.welcome{
+     color: black;
+}
+
+.container{
+     padding-top: 20px;
+}
+
+
+/*****************************************************************
+  
+ BODY OF cart PAGE
+
+*****************************************************************/
+
+.cartbg{
+     background-color: white;
+}
